@@ -15,7 +15,7 @@ let handler  = async (m, { conn, args, text, command, usedPrefix: _p, participan
 
 	const from = m.key.remoteJid
 	//const participants = m.isGroup ? await groupMetadata.participants : ''
-	let packname = 'ArifzynDev'
+	let packname = 'ShiroDev'
 	let q = `Bug Tag From HyzerDev\n${text}`
 	let sections = [{
 		title: `Recoded by ${packname}`,
