@@ -38,58 +38,58 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281372197701', 'Andre', true],
-['79916542607', 'Arifzyn', true]
+['6283862006229', 'Shiro', true],
+['6283862006229', 'Shiro Store', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '081334883572'
-global.nomorown = '6281372197701'
-global.nomorown1 = '-'
-global.nomorown2 = '-'
+global.nomorown = '6283862006229'
+global.nomorown1 = '6283862006229'
+global.nomorown2 = '6283862006229'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Akio X 𝙱𝚘𝚝'
-global.namebot = '​Akio 𝙼𝚍'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 AkioBot 𝐌𝐝'
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = 'AkioBot 𝑴𝒅 '
+global.author = '𝙵𝙸𝙻𝙾 𝙱𝙾𝚃'
+global.namebot = '​𝙵𝙸𝙻𝙾-𝙼𝙳'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Filo 𝐌𝐝'
+global.media = 'https://telegra.ph/file/0e71ad353fbd9a8ae70d9.jpg'
+global.wm = 'FilobotMd'
 global.watermark = wm
-global.wm2 = 'AkioBot 𝑴𝒅 '
+global.wm2 = 'Filo'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `Andre 𝐗 AkioBot`
+global.titlebot = `Shiro 𝐗 Filo`
 global.stickpack = '𝑨𝒉'
-global.stickauth = `© AkioBot MD`
+global.stickauth = `© Filo MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Andrr'
-global.nameown2 = 'AkioBot'
+global.nameown1= 'Shiro Store'
+global.nameown2 = 'Shiro'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = '𝐆𝐝𝐚 𝐖𝐤𝐰𝐤'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = '_'
-global.sgh = 'https://github.com/RifXz19' //github
-global.sgc = 'https://chat.whatsapp.com/KS51Xw91eju8HTv5owtV1z' //group whatsapp
+global.sig = 'https://instagram.com/shiro_nomercy'
+global.sgh = 'https://github.com/Xavieroffcial' 
+global.sgc = 'https://chat.whatsapp.com/GLj5hBI2NQm5ExcMGaa4Mu' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'ht/channel/--'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '081372197701'
-global.povo = '-'
-global.pgopay = '-'
-global.plinkaja = '-' //link aja
-global.ppulsa = '-'
-global.ppulsa2 = '-'
-global.psaweria = 'n'
+global.pdana = '085962734007'
+global.povo = '083862006229'
+global.pgopay = '083862006229'
+global.plinkaja = '083862006229' //link aja
+global.ppulsa = '083862006229'
+global.ppulsa2 = '085962734007'
+global.psaweria = '_'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
