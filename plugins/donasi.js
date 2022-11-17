@@ -1,12 +1,12 @@
 import fetch from 'node-fetch'
 
 let handler  = async (m, { conn, usedPrefix }) => {
-let pp = 'https://telegra.ph/file/2f97cea56c29b3c30a10e.jpg'
+let pp = 'https://telegra.ph/file/8651fa78cb20bc9fd80ea.jpg'
 let name = await conn.getName(m.sender)
 let but1 = '𝐎𝐖𝐍𝐄𝐑'
 let bit = usedPrefix + 'owner'
-let donasi = `⮕ 𝐆𝗼𝐩𝐚𝐲 = [089636219593]
-⮕ 𝐃𝐚𝐧𝐚 = [0895347198105]
+let donasi = `⮕ 𝐆𝗼𝐩𝐚𝐲 = [083862006229]
+⮕ 𝐃𝐚𝐧𝐚 = [085962734007]
 ⮕ 𝐒𝐚𝐰𝐞𝐫𝐢𝐚 = [https://saweria.co/Arifzyn]
 *Atau Scan Qr Di Atas Untuk All Payment*
 
@@ -18,13 +18,13 @@ await conn.sendButtonDoc(m.chat, ucapan + name, donasi, but1, bit, fkontak, {
 			contextInfo: {
 				forwardingScore: fsizedoc,
 				externalAdReply: {
-                    body: '© 𝐒𝐤𝐲𝐁𝗼𝐭',
+                    body: '© Filobot',
     containsAutoReply: true,
     mediaType: 1,
     mediaUrl: hwaifu.getRandom(), 
     renderLargerThumbnail: true,
     showAdAttribution: true,
-    sourceId: '© 𝐒𝐤𝐲𝐁𝗼𝐭',
+    sourceId: '© Filobot',
     sourceType: 'PDF',
     previewType: 'PDF',
     sourceUrl: sgc,
